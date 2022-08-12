@@ -7,4 +7,5 @@
 | LongestHistoryCoin()  | Returns the coin with the longest history of movement between users|  
 
 ### PS  
-An appeal to the service is formed through `greet.Greeter/`
+An appeal to the service is formed through `greet.Greeter/`  
+[Gist](https://gist.github.com/amacomm/4a16beeca644ce188c61c743ed863629) with my testing script.
